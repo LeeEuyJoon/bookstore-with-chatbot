@@ -81,6 +81,6 @@
 ---------
 
 ## 기타 링크
-- 1조_발표자료(PPT 슬라이드)
-- 1조_시연영상
+- [발표자료(Gamma)](https://gamma.app/docs/ToyProject-3-h9ilx5of589d6up)
+- [시연영상(GoogleDrive)](https://drive.google.com/drive/folders/1YlBQdHelUarTYEgdIHRX-Ml70O_tOebM?usp=sharing)
 
