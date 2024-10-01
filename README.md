@@ -33,8 +33,7 @@
 
 ### API 명세
 - [1조 API 명세서]
-- ![1조_API명세서](https://github.com/user-attachments/assets/52f14131-aded-4b9f-9403-97e6245c7123)
-
+- ![1조_API명세서](https://github.com/user-attachments/assets/ad06578c-d9e3-42d8-a4d4-e12916ccc063)
 
 
 ============================================
